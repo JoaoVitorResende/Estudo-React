@@ -7,7 +7,7 @@ server.use(express.json());
 /*
 query params = ?teste = 1
 route params =/users/1
-request body ={"name":"joao","email":"joao.vitor.resende@google.com"}
+request body ={"name":"joao","email":"joao.vitor.@banana.com"}
 
 CRUD - CREATE , READ, UPDATE,DELETE
 */
